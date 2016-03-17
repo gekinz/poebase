@@ -1,0 +1,68 @@
+body {
+  padding-top: 50px;
+  background-image: url('../images/asahisuperdry.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+#ratio-list {
+  list-style: none;
+  font-size: 2.5em;
+  color: white;
+  width: 100%;
+}
+#ratio-list td {
+  background-color: rgba(0, 0, 0, 0.5);
+  align-items: center;
+  align-content: center;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+#ratio-list th {
+  background-color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+}
+#ratio-list img {
+  width: 20%;
+}
+.ratio {
+  text-align: center;
+}
+.buy {
+  text-align:right;
+}
+#searchbar {
+  margin-top: 2em;
+}
+#poe-news {
+  color: white;
+  padding: 0 1px;
+}
+#poe-news a {
+  color: #80b3de;
+  text-decoration: underline;
+  padding: 0 1px;
+}
+#poe-news p {
+  color: #495763;
+  text-decoration: underline;
+  padding: 0 1px;
+}
+#poe-news a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+#poe-news div.header {
+  border-bottom: 1px solid #999;
+}
+#poe-news div.item {
+  padding: 5px 0;
+  border-bottom: 1px solid #999;
+}
+.chunk {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 2em;
+}
